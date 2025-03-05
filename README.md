@@ -1,8 +1,8 @@
 ### **Project Documentation: Restaurant Recommendation System**
 
-**Author: Xavier**
-**Project Title: Hybrid & Item-Based Collaborative Filtering for Restaurant Recommendations**
-**Dataset: Yelp Business & Review Data**
+#### **Author: Xavier**
+#### **Project Title: Hybrid & Item-Based Collaborative Filtering for Restaurant Recommendations**
+#### **Dataset: Yelp Business & Review Data**
 
 ### 1️. Introduction
 
